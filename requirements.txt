@@ -1,0 +1,6 @@
+tensorflow-cpu
+keras
+scikit-image
+opencv-python-headless
+pytelegrambotapi
+flask
